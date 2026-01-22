@@ -1,0 +1,16 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "com.discord.fusion.rpc",
+  "author": "Jappy007",
+  "description": {
+    "": "Discord Rich Presence integration for Autodesk Fusion - Shows your current design activity in Discord"
+  },
+  "version": "2.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true,
+  "supportedLanguages": [
+    ""
+  ]
+}
